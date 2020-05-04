@@ -51,7 +51,6 @@ class Board extends React.Component {
         return(
             <div>
                 <div> {status} </div>
-                (winner) ? <Wins winner={this.state.winner}/> : <br/>;
                 <div className="board-row">
                     {this.renderSquare(0)}
                     {this.renderSquare(1)}

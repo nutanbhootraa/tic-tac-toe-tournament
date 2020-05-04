@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tic-tac-toe-tournament/static/css/main.ae9b7923.chunk.css",
+    "main.js": "/tic-tac-toe-tournament/static/js/main.31decf82.chunk.js",
+    "main.js.map": "/tic-tac-toe-tournament/static/js/main.31decf82.chunk.js.map",
+    "runtime-main.js": "/tic-tac-toe-tournament/static/js/runtime-main.cfd6140b.js",
+    "runtime-main.js.map": "/tic-tac-toe-tournament/static/js/runtime-main.cfd6140b.js.map",
+    "static/js/2.60318cd3.chunk.js": "/tic-tac-toe-tournament/static/js/2.60318cd3.chunk.js",
+    "static/js/2.60318cd3.chunk.js.map": "/tic-tac-toe-tournament/static/js/2.60318cd3.chunk.js.map",
+    "index.html": "/tic-tac-toe-tournament/index.html",
+    "precache-manifest.3cdd036c7da776063c94bcca3f931fea.js": "/tic-tac-toe-tournament/precache-manifest.3cdd036c7da776063c94bcca3f931fea.js",
+    "service-worker.js": "/tic-tac-toe-tournament/service-worker.js",
+    "static/css/main.ae9b7923.chunk.css.map": "/tic-tac-toe-tournament/static/css/main.ae9b7923.chunk.css.map",
+    "static/js/2.60318cd3.chunk.js.LICENSE.txt": "/tic-tac-toe-tournament/static/js/2.60318cd3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfd6140b.js",
+    "static/js/2.60318cd3.chunk.js",
+    "static/css/main.ae9b7923.chunk.css",
+    "static/js/main.31decf82.chunk.js"
+  ]
+}
